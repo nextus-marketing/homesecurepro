@@ -54,6 +54,17 @@
     </a>
 
     <style>
+        .container,
+        .container-fluid,
+        .container-lg,
+        .container-md,
+        .container-sm,
+        .container-xl,
+        .container-xxl {
+            padding-right: 30px;
+            padding-left: 30px;
+        }
+
         .navbar {
             padding: 10px 0;
             align-items: center;

@@ -332,12 +332,9 @@
                     </div>
                 </div>
 
-                <div class="col-lg-12">
-                    <div class="section-footer-text wow fadeInUp" data-wow-delay="0.2s">
-                        <p>
-                            Protect your home with smart and reliable security solutions.
-                            <a href="#contact">Request your free quote today</a>
-                        </p>
+                <div class="col-lg-12 mt-3">
+                    <div class="cta-box-btn" style="display:flex; justify-content:center;">
+                        <a href="tel:+1234567890" class="btn-default">Call Now For Free Quote</a>
                     </div>
                 </div>
 
