@@ -169,7 +169,7 @@
                         <div class="section-title">
                             <h3 class="wow fadeInUp">about us</h3>
                             <h2 class="text-anime-style-2" data-cursor="-opaque">
-                                Smart security solutions for <span>modern homes</span>
+                                Smart Security Solutions For <span>Modern Homes</span>
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">
                                 At Home Secure Pro, we specialize in delivering reliable and easy-to-use home security
@@ -231,7 +231,7 @@
                     <div class="section-title section-title-center">
                         <h3 class="wow fadeInUp">Our Services</h3>
                         <h2 class="text-anime-style-2" data-cursor="-opaque">
-                            Smart home security solutions for <span>complete protection</span>
+                            Smart Home Security Solutions For <span>Complete Protection</span>
                         </h2>
                     </div>
                 </div>
@@ -355,7 +355,7 @@
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Why Choose Us</h3>
                             <h2 class="text-anime-style-2" data-cursor="-opaque">
-                                Reliable security solutions designed for <span>your peace of mind</span>
+                                Reliable Security Solutions Designed For <span>Your Peace Of Mind</span>
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">
                                 We provide smart, reliable, and easy-to-use home security systems that keep your property
@@ -475,7 +475,7 @@
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Free Consultation</h3>
                             <h2 class="text-anime-style-2" data-cursor="-opaque">
-                                Protect your home with smart <span>security solutions</span>
+                                Protect Your Home With Smart <span>Security Solutions</span>
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">
                                 Get a customized home security plan tailored to your needs. Our experts are ready to help
@@ -534,7 +534,7 @@
                         <div class="section-title">
                             <h3 class="wow fadeInUp">Testimonials</h3>
                             <h2 class="text-anime-style-2" data-cursor="-opaque">
-                                What homeowners say about our <span>security solutions</span>
+                                What Homeowners Say About Our <span>Security Solutions</span>
                             </h2>
                             <p class="wow fadeInUp" data-wow-delay="0.2s">
                                 See how our smart security systems have helped homeowners feel safer, more connected, and in
