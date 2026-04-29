@@ -26,7 +26,7 @@
                         <div class="hero-body wow fadeInUp" data-wow-delay="0.4s">
                             <!-- Hero Button Start -->
                             <div class="hero-btn">
-                                <a href="#contact" class="btn-default btn-highlighted">
+                                <a href="tel:+18443000035" class="btn-default btn-highlighted">
                                     Get Free Security Consultation
                                 </a>
                             </div>
@@ -64,8 +64,8 @@
 
                             <div class="hero-cta-item-content">
                                 <p>
-                                    <a href="tel:+18001234567">
-                                        <span>Phone:</span> (800) 123-4567
+                                    <a href="tel:+18443000035">
+                                        <span>Phone:</span> +1 (844) 300-0035
                                     </a>
                                 </p>
                             </div>
@@ -103,7 +103,7 @@
                             Get a free consultation and discover the best security solution tailored to your home and
                             lifestyle.
                         </p>
-                        <a href="tel:+1234567890" class="btn-default btn-highlighted wow fadeInUp" data-wow-delay="0.6s">
+                        <a href="tel:+18443000035" class="btn-default btn-highlighted wow fadeInUp" data-wow-delay="0.6s">
                             Call To Security Expert
                         </a>
                     </div>
@@ -211,7 +211,7 @@
 
                         <!-- About Content Button Start -->
                         <div class="about-content-btn wow fadeInUp" data-wow-delay="0.6s">
-                            <a href="tel:+1234567890" class="btn-default">(123) 456 - 789</a>
+                            <a href="tel:+18443000035" class="btn-default">+1 (844) 300-0035</a>
                         </div>
                         <!-- About Content Button End -->
 
@@ -334,7 +334,7 @@
 
                 <div class="col-lg-12 mt-3">
                     <div class="cta-box-btn" style="display:flex; justify-content:center;">
-                        <a href="tel:+1234567890" class="btn-default">Call Now For Free Quote</a>
+                        <a href="tel:+18443000035" class="btn-default">Call Now For Free Quote</a>
                     </div>
                 </div>
 
@@ -400,7 +400,7 @@
 
                             <!-- Button -->
                             <div class="goals-content-btn">
-                                <a href="tel:+1234567890" class="btn-default">Call Now</a>
+                                <a href="tel:+18443000035" class="btn-default">Call Now</a>
                             </div>
 
                             <!-- Contact Box -->
@@ -410,7 +410,7 @@
                                 </div>
                                 <div class="contact-now-box-content">
                                     <span>Call Us 24/7</span>
-                                    <p><a href="tel:+18001234567">(800) 123-4567</a></p>
+                                    <p><a href="tel:+18443000035">+1 (844) 300-0035</a></p>
                                 </div>
                             </div>
 
@@ -489,7 +489,7 @@
 
                             <!-- CTA Box Button Start -->
                             <div class="cta-box-btn">
-                                <a href="#contact" class="btn-default">Call Our Security Experts</a>
+                                <a href="tel:+18443000035" class="btn-default">Call Our Security Experts</a>
                             </div>
                             <!-- CTA Box Button End -->
 
@@ -500,7 +500,7 @@
                                 </div>
                                 <div class="contact-now-box-content">
                                     <span>Call Us 24/7</span>
-                                    <p><a href="tel:+18001234567">(800) 123-4567</a></p>
+                                    <p><a href="tel:+18443000035">+1 (844) 300-0035</a></p>
                                 </div>
                             </div>
                             <!-- Contact Now Box End -->
@@ -543,7 +543,7 @@
                         </div>
 
                         <div class="testimonial-content-btn wow fadeInUp" data-wow-delay="0.4s">
-                            <a href="#contact" class="btn-default">Call Now</a>
+                            <a href="tel:+18443000035" class="btn-default">Call Now</a>
                         </div>
 
                     </div>

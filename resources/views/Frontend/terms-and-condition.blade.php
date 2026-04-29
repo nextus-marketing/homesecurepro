@@ -128,8 +128,8 @@
                                 If you have any questions about these Terms, please contact us:
                             </p>
 
-                            <p class="wow fadeInUp" data-wow-delay="2.8s">
-                                <strong>Phone:</strong> <a href="tel:+18558321250">+1-855-832-1250</a>
+                            <p class="wow fadeInUp" data-wow-delay="1.3s">
+                                <strong>Phone:</strong> <a href="tel:+18443000035">+1 (844) 300-0035</a>
                             </p>
 
                         </div>
