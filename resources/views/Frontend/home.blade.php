@@ -115,7 +115,7 @@
     <!-- Hero CTA Box End -->
 
     <!-- About Us Section Start -->
-    <div class="about-us">
+    <div class="about-us" id="about">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6">
@@ -464,7 +464,7 @@
     <!-- Our Goals Section End -->
 
 
-    <div class="cta-box bg-section dark-section parallaxie">
+    <div class="cta-box bg-section dark-section parallaxie" id="contact">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-7">
