@@ -37,7 +37,8 @@
                         <div class="post-entry">
 
                             <p class="wow fadeInUp">
-                                Welcome to Home Secure Pro. These Terms and Conditions govern your use of our website,
+                                Welcome to Business Accounting Crop DBA Business Accounting Crop DBA Home Secure Pro. These
+                                Terms and Conditions govern your use of our website,
                                 products, and services. By accessing or using our website or services, you agree to be bound
                                 by these Terms. If you do not agree with any part of these Terms, please do not use our
                                 services.
@@ -74,7 +75,8 @@
                             <h2 class="wow fadeInUp" data-wow-delay="1s">5. Intellectual Property</h2>
                             <p class="wow fadeInUp" data-wow-delay="1.1s">
                                 All content on this website, including logos, designs, text, graphics, and software, is the
-                                property of Home Secure Pro or its licensors and is protected by intellectual property laws.
+                                property of Business Accounting Crop DBA Business Accounting Crop DBA Home Secure Pro or its
+                                licensors and is protected by intellectual property laws.
                                 You may not use or reproduce any content without permission.
                             </p>
 
@@ -95,7 +97,8 @@
 
                             <h2 class="wow fadeInUp" data-wow-delay="1.6s">8. Limitation of Liability</h2>
                             <p class="wow fadeInUp" data-wow-delay="1.7s">
-                                To the maximum extent permitted by law, Home Secure Pro is not liable for any indirect or
+                                To the maximum extent permitted by law, Business Accounting Crop DBA Business Accounting
+                                Crop DBA Home Secure Pro is not liable for any indirect or
                                 consequential damages arising from your use of our services.
                             </p>
 

@@ -23,6 +23,9 @@ Route::get('/privacy-policy', function () {
 Route::get('/terms-and-condition', function () {
     return view('Frontend.terms-and-condition');
 });
+Route::get('/contact', function () {
+    return view('Frontend.contact');
+});
 
 Route::fallback(function () {
     return response()->view('Error.404', [], 404);

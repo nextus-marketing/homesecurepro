@@ -37,7 +37,8 @@
                         <div class="post-entry">
 
                             <p class="wow fadeInUp">
-                                At Home Secure Pro, we are committed to protecting your privacy. This Privacy Policy
+                                At Business Accounting Crop DBA Home Secure Pro, we are committed to protecting your
+                                privacy. This Privacy Policy
                                 outlines
                                 how we collect, use, and safeguard your personal information when you interact with our
                                 products, services, and website. By using our services, you agree to the collection and use

@@ -111,7 +111,7 @@
                             <ul class="navbar-nav mr-auto d-flex justify-content-center w-100" id="menu">
                                 <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
                                 <li class="nav-item"><a class="nav-link" href="/#about">About Us</a></li>
-                                <li class="nav-item"><a class="nav-link" href="/#contact">Contact Us</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/contact">Contact Us</a></li>
                             </ul>
                         </div>
 
@@ -165,7 +165,7 @@
                         <ul>
                             <li><a href="/">Home</a></li>
                             <li><a href="/#about">About Us</a></li>
-                            <li><a href="/#contact">Contact Us</a></li>
+                            <li><a href="/contact">Contact Us</a></li>
                             <li><a href="/privacy-policy">Privacy Policy</a></li>
                             <li><a href="/terms-and-condition">Terms & Conditions</a></li>
                         </ul>
@@ -193,7 +193,7 @@
                 <div class="col-lg-12">
                     <div class="footer-copyright" style="display:flex; justify-content:center; align-items:center;">
                         <div class="footer-copyright-text">
-                            <p>Copyright © 2026 All Rights Reserved.</p>
+                            <p>Copyright © 2026 - Business Accounting Crop DBA Home Secure Pro All Rights Reserved.</p>
                         </div>
                     </div>
                 </div>
