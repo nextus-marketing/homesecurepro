@@ -37,7 +37,7 @@
                         <div class="post-entry">
 
                             <p class="wow fadeInUp">
-                                Welcome to Business Accounting Crop DBA Business Accounting Crop DBA Home Secure Pro. These
+                                Welcome to Business Accounting Crop DBA Home Secure Pro. These
                                 Terms and Conditions govern your use of our website,
                                 products, and services. By accessing or using our website or services, you agree to be bound
                                 by these Terms. If you do not agree with any part of these Terms, please do not use our
@@ -75,7 +75,7 @@
                             <h2 class="wow fadeInUp" data-wow-delay="1s">5. Intellectual Property</h2>
                             <p class="wow fadeInUp" data-wow-delay="1.1s">
                                 All content on this website, including logos, designs, text, graphics, and software, is the
-                                property of Business Accounting Crop DBA Business Accounting Crop DBA Home Secure Pro or its
+                                property of Business Accounting Crop DBA Home Secure Pro or its
                                 licensors and is protected by intellectual property laws.
                                 You may not use or reproduce any content without permission.
                             </p>
