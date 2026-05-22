@@ -97,7 +97,7 @@
 
                             <h2 class="wow fadeInUp" data-wow-delay="1.6s">8. Limitation of Liability</h2>
                             <p class="wow fadeInUp" data-wow-delay="1.7s">
-                                To the maximum extent permitted by law, Business Accounting Crop DBA Business Accounting
+                                To the maximum extent permitted by law, Business Accounting
                                 Crop DBA Home Secure Pro is not liable for any indirect or
                                 consequential damages arising from your use of our services.
                             </p>
