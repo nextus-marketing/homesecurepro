@@ -95,7 +95,7 @@
                             </p>
 
                             <p class="wow fadeInUp" data-wow-delay="1.3s">
-                                <strong>Phone:</strong> <a href="tel:+18443000035">+1 (844) 300-0035</a>
+                                <strong>Phone:</strong> <a href="tel:+18886690071">+1 (888) 669-0071</a>
                             </p>
 
                             <p class="wow fadeInUp" data-wow-delay="1.4s">
