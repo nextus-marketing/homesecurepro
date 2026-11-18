@@ -187,6 +187,15 @@
                             </div>
                         </div>
 
+                        <div class="footer-contact-item">
+                            <div class="icon-box">
+                                <img src="/frontend/images/icon-phone-accent.svg" alt="">
+                            </div>
+                            <div class="footer-contact-content">
+                                <p><a href="tel:+18886690071">+1 (888) 669-0071</a></p>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
 
