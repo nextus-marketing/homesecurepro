@@ -49,7 +49,7 @@
     </div> --}}
     <!-- Preloader End -->
 
-    <a href="tel:+18886690071" class="floating-call">
+    <a href="tel:+18443000035" class="floating-call">
         <i class="fa-solid fa-phone"></i>
     </a>
 
@@ -117,7 +117,7 @@
 
                         <!-- Header Contact Btn Start -->
                         <div class="header-contact-btn">
-                            <a href="tel:+18886690071" class="btn-default">+1 (888) 669-0071</a>
+                            <a href="tel:+18443000035" class="btn-default">+1 (844) 300-0035</a>
                         </div>
                         <!-- Header Contact Btn End -->
                     </div>
@@ -183,7 +183,7 @@
                                 <img src="/frontend/images/icon-phone-accent.svg" alt="">
                             </div>
                             <div class="footer-contact-content">
-                                <p><a href="tel:+18886690071">+1 (888) 669-0071</a></p>
+                                <p><a href="tel:+18443000035">+1 (844) 300-0035</a></p>
                             </div>
                         </div>
 
